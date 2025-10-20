@@ -1,6 +1,7 @@
 Tự động mở nhiều cửa sổ trình duyệt (song song bằng luồng — threads) và đăng ký nhiều tài khoản Instagram bằng email tạm thời.
 
 Quy trình chính trong hàm create_account()
+
 1. Khởi tạo Chrome với proxy (nếu có).
 
 2.Đặt vị trí cửa sổ theo index để không đè nhau trên màn hình.
