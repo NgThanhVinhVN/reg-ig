@@ -28,4 +28,9 @@ Chọn ngày sinh ngẫu nhiên.
 9.Nếu thất bại (không lấy được mã) → tự động thử lại tạo nick mới.
 <img width="1919" height="1149" alt="ảnh" src="https://github.com/user-attachments/assets/4de86bf5-5688-495b-a513-b3619ba0046f" />
 
+Định dạng
+Tài khoản | mật khẩu | năm sinh | mail | thời gian tạo acc thành công 
+<img width="844" height="90" alt="ảnh" src="https://github.com/user-attachments/assets/4e01f2f1-2b37-45e3-9cff-33dc43c88f35" />
+
+
 DONE BY NGUYEN THANH VINH !
