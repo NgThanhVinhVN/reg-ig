@@ -26,3 +26,6 @@ Chọn ngày sinh ngẫu nhiên.
 8.Nếu thành công → lưu lại tài khoản.
 
 9.Nếu thất bại (không lấy được mã) → tự động thử lại tạo nick mới.
+<img width="1919" height="1149" alt="ảnh" src="https://github.com/user-attachments/assets/4de86bf5-5688-495b-a513-b3619ba0046f" />
+
+DONE BY NGUYEN THANH VINH !
